@@ -1,0 +1,33 @@
+/* 
+    Filename   : index.css
+    Created on : 09.12.2019, 10:44:29
+    Author     : 1039977
+*/
+
+* {
+    margin: 0;
+}
+
+* {
+    outline: none;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+body {
+
+}
+
+.container {
+    margin: auto;
+    width: auto;
+    border: 3px solid green;
+    margin-top: 200px;
+    padding: 200px;
+
+}
+

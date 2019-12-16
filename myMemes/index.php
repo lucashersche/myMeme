@@ -25,10 +25,9 @@ and open the template in the editor.
             <br>
 
             <nav class="nav nav-pills nav-justified">
-                <a class="nav-item nav-link active" href="index.php">Absenz</a>
-                <a class="nav-item nav-link " href="schueler.php">Schüler</a>
-                <a class="nav-item nav-link " href="kari.php">Kari</a>
-                <a class="nav-item nav-link " href="kopf.php">Kopf</a>
+                <a class="nav-item nav-link active" href="index.php"><img src="https://img.icons8.com/ios/32/000000/home-page.png"></a>
+                <a class="nav-item nav-link " href="schueler.php"><img src="https://img.icons8.com/windows/32/000000/add.png"></a>
+                <a class="nav-item nav-link " href="kari.php"><img src="https://img.icons8.com/ios/32/000000/guest-male.png"></a>
             </nav>
 
             <br>

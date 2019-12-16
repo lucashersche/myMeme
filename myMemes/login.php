@@ -66,7 +66,7 @@ and open the template in the editor.
             <h1>Guest</h1>
             <hr>
             
-            <a href="index.php">Continue as a guest</a>
+            <a href="home.php">Continue as a guest</a>
 
         </div>
         <!-- Optional JavaScript -->

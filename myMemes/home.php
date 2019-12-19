@@ -13,51 +13,23 @@ and open the template in the editor.
         <!-- titel -->
         <title>Memeportal</title>
         <!-- llinks -->
-        <link rel="stylesheet" type="text/css" href="css/mycss.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
               integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="css/mycss.css">
     </head>
     <body>
         <div class="container">
-            <h1>myMemes</h1>
-            <br>
-            <hr>
-            <br>
-
-            <nav class="nav nav-pills nav-justified">
-                <a class="nav-item nav-link active" href="home.php"><img src="https://img.icons8.com/ios/32/000000/home-page.png"></a>
-                <a class="nav-item nav-link " href="add.php"><img src="https://img.icons8.com/windows/32/000000/add.png"></a>
-                <a class="nav-item nav-link " href="profil.php"><img src="https://img.icons8.com/ios/32/000000/guest-male.png"></a>
-            </nav>
-
-            <br>
-            <hr>
-            <br>
-
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Ungeklärte Absenzen</h5>
-                            <p class="card-text">ardi lelek</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="card-title">Geklärte Absenzen</h5>
-                            <p class="card-text">Ardi kein lelek</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
+            <header>
             
-
+            </header>
+            <main>
+                <p>huere kari</p>
+            </main>
+            <footer>
+                
+            </footer>
         </div>
+
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
